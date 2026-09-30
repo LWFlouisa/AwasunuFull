@@ -1,2 +1,2 @@
-# AwasunuFull
-Note that this will exclusively serve as a static presentation.
+# Awasunu 0.0.1
+This will serve as a permanent archive of Awasunu.
