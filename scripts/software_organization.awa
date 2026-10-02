@@ -1,0 +1,33 @@
+# Organization 1
+hlim 2 :prolog prolog :assembler assembler :ruby ruby
+hlim 2 :lua lua :ada ada :crystal crystal
+
+espace
+
+# Variants
+hlim 2 :first_variant first_variant :second_variant second_variant :third_variant use_a_new_variant
+
+espace
+
+# Nasm Aspects
+hlim 2 :nasm assembler_in_linux :ada gnatmake_in_linux :crystal focus_on_crystal
+
+espace
+
+# Crystal Aspects
+hlim 2 :crystal_ml crystal_based_machine_learning :crystal_basics crystal_basic_grammair :obelisk crystal_based_obelisk_logique
+
+espace
+
+# Ruby Aspects
+hlim 2 :ruby_ml ruby_based_machine_learning :ruby_basics ruby_basic_grammair :obelisk ruby_based_obelisk_logique
+
+espace
+
+# Lua Aspects
+hlim 2 :lua_ml lua_based_machine_learning :lua_basics lua_basic_grammair :obelisk lua_based_obelisk_logique
+
+espace
+
+# Lisp Aspects
+hlim 2 :lisp_ml lisp_based_machine_learning :lisp_basics lisp_basic_grammair :chained_functions chained_lisp_functions
